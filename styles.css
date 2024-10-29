@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: rgb(112, 141, 228);
+}
+
+h1 {
+    font-weight: 700;
+    color: royalblue;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 20px;
+    color: gray;
+}
+
+p {
+    font-weight: 400;
+}
