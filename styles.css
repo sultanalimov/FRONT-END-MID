@@ -17,3 +17,22 @@ h2 {
 p {
     font-weight: 400;
 }
+
+.container {
+    width: 60%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+    margin: 100px auto;
+}
+
+.block {
+    width: 33%;
+    padding: 10px 20px;
+}
+
+.block:hover {
+    background: rgb(224, 222, 222);
+    transition: 0.3s;
+}
