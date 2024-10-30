@@ -35,4 +35,9 @@ p {
 .block:hover {
     background: rgb(224, 222, 222);
     transition: 0.3s;
+}.img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    display: block;
 }
